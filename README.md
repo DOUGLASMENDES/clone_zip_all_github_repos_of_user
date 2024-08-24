@@ -1,4 +1,4 @@
-# Clone and zip all Github repositories of a user
+# Clone and zip all Github repositories of a user (for backup)
 Python script to git clone and zip all github repos of a user.
 
 You must have git installed and configured.
